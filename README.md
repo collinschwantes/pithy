@@ -11,7 +11,8 @@ Goal: a minimal word processor that is intuitve (menus are easy to navigate via 
 
 # Setup R clone 
 - See https://gist.github.com/sissbruecker/c9263e237f5972e25d9d84b71dd89292
- - using rclone copy to move files from pithy to gdrive, using the `-cu` options to checksum and only update if pithy's files are newer 
+ - using rclone copy to move files from pithy to gdrive, using the `-cu` options to checksum and only update if pithy's files are newer
+ - currently copying files every 5 mins 
 
 # Setup Wordprocessing app
 - likely going with a fork of https://github.com/zerowriter/zerowriter1/tree/main
