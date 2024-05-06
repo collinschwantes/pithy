@@ -24,4 +24,4 @@ Goal: a minimal word processor that is intuitve (menus are easy to navigate via 
 - Raspberry Pi Zero 2W
 - logitech k480 bluetooth keyboard
 - waveshare 7.2 inch e-ink display
--  
+  - there is a little lock on the bit that connects to the display. Lift up the black bar to attach.
