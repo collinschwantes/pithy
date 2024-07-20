@@ -24,7 +24,7 @@ Goal: a minimal word processor that is intuitve (menus are easy to navigate via 
 # Setup Wordprocessing app
 - likely going with a fork of https://github.com/zerowriter/zerowriter1/tree/main
 - but maybe https://github.com/RyWhal/TypeWryter?tab=readme-ov-file
-- or just using text edit already on the machine... 
+- or just using text edit already on the machine... see PAPERTTY repo
 
 ### Components List
 
